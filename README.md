@@ -1,10 +1,13 @@
 # HETIC_GA_ML
 Google Analytics Machine Learning Project
 
+# Targets, objectives, classification
+
 # Data Visualization
 ## GCP
 
-## Conclusions
+## Insights
+
 
 # Tools
 * Chaine de Markov
