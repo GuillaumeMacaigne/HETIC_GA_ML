@@ -23,19 +23,15 @@ https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial
 **Lien du rapport  :** https://datastudio.google.com/open/1QLlLbf_W5s9k11m0qP1XkpCWzeekrL5g
 * Exploration des données sous 4 angles,  création de 4 pages : 
 1. L'utilisateur  
-
 Observation du nombre de visites par utilisateur, de leur localisation, du nombre de première visite sur le site.
 
 1. Les sessions  
-
 Observation des canaux d’entrée, des landing pages, du nombre de pages vues et du temps passé pour chaque session.
 
 1. Les pages  
-
 Observation des pages les plus vues.
 
 1. Les hits et les events  
-
 Observation du nombre de conversions en fonction de la date, de l'utilisateur et de la source.
 
 ## Insights
