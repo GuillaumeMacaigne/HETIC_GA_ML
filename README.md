@@ -13,3 +13,6 @@ Google Analytics Machine Learning Project
 * Chaine de Markov
 * Word 2 vec
 
+# Tasks
+## 26/12/19
+* **Guillaume**: Création Readme.md
