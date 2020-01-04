@@ -37,7 +37,20 @@ Observation du nombre de conversions en fonction de la date, de l'utilisateur et
 ## Insights
 * L'analyse exploratoire dans DataStudio nous a permis de repérer les valeurs nulles, les valeurs aberrantes et les données qui vont nous être utiles.  
 
+# Processus
+## Variable Identification
+## Univariate Analysis
+## Bi-variate Analysis
+## Missing values treatment
+## Outlier treatment
+## Variable transformation
+## Variable creation
+
+
 # Tasks
+## 04/01/20
+* **Guillaume**: Identification et traitement des valeurs nulles
+
 ## 26/12/19
 * **Guillaume**: Création Readme.md
 
