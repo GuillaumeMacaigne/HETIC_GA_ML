@@ -44,7 +44,7 @@ Observation du nombre de conversions en fonction de la date, de l'utilisateur et
 
 # Tasks
 ## 07/01/20
-* **Sophia**: Nouvelle requête SQL pour récupérer ******
+* **Sophia**: Nouvelle requête SQL pour récupérer le nombre de pages vues, le temps de la session, le nombre total de hits et le nombre de sessions
 * **Guillaume**: Nettoyage, drops et dummies
 * **Thibaud**: Analyse univariée
 
@@ -56,6 +56,7 @@ Observation du nombre de conversions en fonction de la date, de l'utilisateur et
 
 ## 26/12/19
 * **Guillaume**: Création Readme.md
+* **Sophia**: Visualisation des données avec DataStudio
 
 ## 20/12/19
 * **Equipe** : Début, représentation, lecture, .....
