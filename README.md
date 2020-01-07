@@ -43,6 +43,14 @@ Observation du nombre de conversions en fonction de la date, de l'utilisateur et
 
 
 # Tasks
+## 07/01/20
+* **Sophia**: Nouvelle requête SQL pour récupérer ******
+* **Guillaume**: Nettoyage, drops et dummies
+* **Thibaud**: Analyse univariée
+
+## 06/01/20
+* **Guillaume**: Nettoyage des données
+
 ## 04/01/20
 * **Guillaume**: Identification et traitement des valeurs nulles
 
